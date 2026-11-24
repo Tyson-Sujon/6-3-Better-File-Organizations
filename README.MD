@@ -45,5 +45,9 @@ To run typescript in node js: npm i tsx
 
 
 
+// client> route> controller > service >(er por service > controller>client) ai operation korche
 
+
+
+// product.controller file er moddhe sob somoy product er CRUD(e.g:create,get,put,delete ai operation gula rakha hoi)
 
